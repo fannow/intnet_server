@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/cgi.dir/cgi.cc.o  -o cgi -Wl,-rpath,/home/linux/cs/build/code ../code/liblog.so -lmysqlclient ../code/libsmtp.so 

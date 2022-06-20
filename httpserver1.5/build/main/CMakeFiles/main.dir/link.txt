@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cc.o  -o main -Wl,-rpath,/home/linux/cs/build/code ../code/liblog.so -lpthread -lmysqlclient ../code/libsmtp.so 
