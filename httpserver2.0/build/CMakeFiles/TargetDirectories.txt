@@ -1,0 +1,12 @@
+/home/linux/cs/build/CMakeFiles/rebuild_cache.dir
+/home/linux/cs/build/CMakeFiles/edit_cache.dir
+/home/linux/cs/build/code/CMakeFiles/rebuild_cache.dir
+/home/linux/cs/build/code/CMakeFiles/smtp.dir
+/home/linux/cs/build/code/CMakeFiles/edit_cache.dir
+/home/linux/cs/build/code/CMakeFiles/log.dir
+/home/linux/cs/build/cgi/CMakeFiles/rebuild_cache.dir
+/home/linux/cs/build/cgi/CMakeFiles/edit_cache.dir
+/home/linux/cs/build/cgi/CMakeFiles/cgi.dir
+/home/linux/cs/build/main/CMakeFiles/rebuild_cache.dir
+/home/linux/cs/build/main/CMakeFiles/edit_cache.dir
+/home/linux/cs/build/main/CMakeFiles/main.dir
