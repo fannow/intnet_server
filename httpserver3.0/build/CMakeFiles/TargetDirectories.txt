@@ -1,0 +1,15 @@
+/home/linux/http/5/build/CMakeFiles/rebuild_cache.dir
+/home/linux/http/5/build/CMakeFiles/edit_cache.dir
+/home/linux/http/5/build/code/CMakeFiles/rebuild_cache.dir
+/home/linux/http/5/build/code/CMakeFiles/smtp.dir
+/home/linux/http/5/build/code/CMakeFiles/edit_cache.dir
+/home/linux/http/5/build/code/CMakeFiles/log.dir
+/home/linux/http/5/build/cgi/CMakeFiles/rebuild_cache.dir
+/home/linux/http/5/build/cgi/CMakeFiles/edit_cache.dir
+/home/linux/http/5/build/cgi/CMakeFiles/cgi.dir
+/home/linux/http/5/build/code/timer/CMakeFiles/rebuild_cache.dir
+/home/linux/http/5/build/code/timer/CMakeFiles/edit_cache.dir
+/home/linux/http/5/build/code/timer/CMakeFiles/time.dir
+/home/linux/http/5/build/main/CMakeFiles/rebuild_cache.dir
+/home/linux/http/5/build/main/CMakeFiles/edit_cache.dir
+/home/linux/http/5/build/main/CMakeFiles/main.dir

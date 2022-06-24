@@ -1,0 +1,4 @@
+AUX_SOURCE_DIRECTORY(. LIST_ARRAY)
+add_definitions(-std=c++11)
+ADD_LIBRARY(time  SHARED  ${LIST_ARRAY})
+

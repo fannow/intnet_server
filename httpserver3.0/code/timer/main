@@ -1,0 +1,24 @@
+#include"timer.hpp"
+void func(int sock){
+  timeparse begin=timer::now();
+  for(int i=0;i<5000;i++){
+        
+  }
+
+  timeparse end=timer::now();
+  cout<<"func 函数begin:"<<chrono::duration_cast<MS>(begin.time_since_epoch()).count()<<"end:"<<chrono::duration_cast<MS>(end.time_since_epoch()).count()<<"相差时间"<<chrono::duration_cast<MS>(end.time_since_epoch()-                begin.time_since_epoch()).count()<<endl;
+}
+int main(){
+    Timer *time=new Timer();
+  timeparse begin=timer::now();
+    for(int i=0;i<6466;i++){
+        time->AddNode(i,100,bind(func,100));
+        time->gettick();
+    }
+  timeparse end=timer::now();
+  cout<<"begin:"<<chrono::duration_cast<MS>(begin.time_since_epoch()).count()<<"end:"<<chrono::duration_cast<MS>(end.time_since_epoch()).count()<<"相差时间"<<chrono::duration_cast<MS>(end.time_since_epoch()-                begin.time_since_epoch()).count()<<endl;
+  while(1){
+
+        time->gettick();
+  }
+}

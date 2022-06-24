@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/linux/http/5/code/timer/timer.cpp
+timer.h
+/home/linux/http/5/code/timer/timer.h
+
+/home/linux/http/5/code/timer/timer.h
+iostream
+-
+functional
+-
+chrono
+-
+time.h
+-
+vector
+-
+unordered_map
+-
+
